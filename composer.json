@@ -1,0 +1,19 @@
+{
+    "name": "vojtech-dobes/composer-extension",
+    "description": "Autoregisters extensions downloaded via Composer (for Nette Framework)",
+    "keywords": ["nette", "config", "di", "composer"],
+    "homepage": "http://github.com/vojtech-dobes/ComposerExtension",
+    "license": "New BSD",
+    "authors": [
+        {
+            "name": "Vojtěch Dobeš",
+            "email": "me@vojtechdobes.com"
+        }
+    ],
+    "require": {
+        "nette/nette": "2.0.4"
+    },
+    "autoload": {
+        "classmap": ["/"]
+    }
+}

@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "nette/nette": "2.0.4"
+        "nette/nette": ">=2.0.4"
     },
     "autoload": {
         "classmap": ["/"]

@@ -4,6 +4,7 @@ namespace VojtechDobes;
 
 use Nette;
 use Nette\Config;
+use Nette\Utils\Arrays;
 use Nette\Utils\Finder;
 use Nette\Utils\Json;
 
